@@ -3,7 +3,7 @@
 ## 📋 Overview
 This study explores how directors and writers contribute to the success of movies and TV shows. By analyzing data from IMDb, the research highlights how the creative decisions made by the crew behind a project influence its ratings and popularity. Using data science techniques such as exploratory data analysis and predictive modeling, the study uncovers patterns that show certain directors and writers consistently deliver high-rated works.
 
-## 🏆 Highlights
+## 🌟 Highlights
 - Bobby Quinn and Biswapati Sarkar are amongst the directors who consistently produce movies and TV shows with high ratings.
 - A color-coded analysis of movie genres and themes shows that successful directors work.
 - Predictive models suggest that knowing the crew involved in a project can help predict its potential success.
