@@ -91,6 +91,9 @@ ggplot(top_genres_ratings, aes(x = genres, y = "Average Rating")) +
 # Group by genres and plot how total votes relate to average ratings for each genre
 genre_success <- sample_title_basics_ratings %>%
   separate_rows(genres, sep = ",") %>%
+ mutate(
+    genres = ifelse(genres == "\\N", "Others", genres)  # Replace missing genres with "Others"
+  ) %>%
   group_by(genres) %>%
   dplyr::summarise(
     avg_rating = mean(averageRating, na.rm = TRUE),
