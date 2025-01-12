@@ -1,3 +1,5 @@
+# INF6027: Introduction to Data Science
+
 # Movie Success and the Role of Directors and Writers
 
 ## 📋 Overview
