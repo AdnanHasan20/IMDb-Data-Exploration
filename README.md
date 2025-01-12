@@ -25,6 +25,7 @@ This project is designed for coursework combining **Introduction to Data Science
 ---
 
 ## File Descriptions
+2. Access the following files to run the code:
 
 - **DS.R**: Contains the main analysis script for **Introduction to Data Science**, focusing on identifying successful directors and writers.
 - **DV.R**: Responsible for generating visualizations as part of the **Data Visualization** coursework.
