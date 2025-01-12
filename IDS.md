@@ -22,7 +22,17 @@ This study explores how directors and writers contribute to the success of movie
 ## 📊 Results and Discussions
 
 ### 🎯 Key Results
-- **Top Directors and Writers**: Directors like Bobby Quinn and Biswapati Sarkar were found to have consistently high ratings for their works. The analysis showed that certain individuals are responsible for a large number of high-rated movies and TV shows.
+### Top Directors And Their Highest Rated Works: 
+- **Directors like Bobby Quinn and Biswapati Sarkar were found to have consistently high ratings for their works. The analysis showed that certain individuals are responsible for a large number of high-rated movies and TV shows**.
+
+
+![Top Directors and Their Highest-Rated Works](outputs/IDS_Q1.png "Figure 1: Top Directors and Their Works")
+
+### Directors/Writers And Their Highest Average Ratings
+
+
+![Directors/Writers And Their Highest Average Ratings](outputs/IDS_Q2.png "Figure 1: Directors/Writers and Average Ratings")
+
 - **Regression Model**: A predictive model demonstrated that knowing the director and writer behind a project could help predict its success, though other factors like marketing and actors also play a role.
 - **Exploratory Data Analysis**: The analysis identified significant relationships between the average movie ratings and the influence of directors and writers. It showed that specific people were consistently responsible for top-rated works.
 
