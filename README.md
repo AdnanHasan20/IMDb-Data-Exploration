@@ -8,7 +8,7 @@ This project is designed for coursework combining **Introduction to Data Science
 ## Setup and Installation
 
 ### Prerequisites
-- RStudio [RStudio Desktop Download](https://posit.co/download/rstudio-desktop/) 
+- RStudio ([RStudio Desktop Download](https://posit.co/download/rstudio-desktop/))
 - Install R packages:
   - `tidyverse`
   - `ggplot2`
@@ -16,6 +16,13 @@ This project is designed for coursework combining **Introduction to Data Science
   - `data.table`
   - `plyr`
   - `treemapify`
+- IMDb Dataset ([Download Datasets](https://developer.imdb.com/non-commercial-datasets/))
+- Install:
+  - `name.basics.tsv.gz`
+  - `title.basics.tsv.gz`
+  - `title.crew.tsv.gz`
+  - `title.ratings.tsv.gz`
+  
 
 ### Steps
 1. Clone this repository:
