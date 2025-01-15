@@ -1,5 +1,6 @@
 # INF4000: Data Visualisation
 
+# Exploring Movie Genres: Trends, Ratings, Popularity, and Success Contributions
 
 
 ## Results and Discussions
