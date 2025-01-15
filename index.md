@@ -39,15 +39,17 @@ This repository combines insights from two distinct projects: **Introduction to 
 
 #### 📌 Top-Rated Genres  
 - **Heatmap**: Highlights genres with high average ratings and their relation to the number of votes.  
-![Top-Rated Genres and Votes](outputs/DataViz_Q2.jpeg "Figure: Top-Rated Genres by Ratings and Votes")  
-
-#### 📌 Genre Contribution to Success  
-- **Bubble Chart**: Depicts the relationship between total votes and average ratings for each genre, scaled by popularity.  
-![Genres' Contribution to Success](outputs/DataViz_Q3.jpeg "Figure: Bubble Chart of Genre Success Metrics")  
+![Top-Rated Genres and Votes](outputs/DataViz_Q2.jpeg "Figure: Top-Rated Genres by Ratings and Votes")
 
 #### 📌 Movies Produced Over Decades  
 - **Stacked Area Chart**: Tracks the production trends of genres across decades.  
-![Movies Produced Over Decades](outputs/DataViz_Q4.jpeg "Figure: Genre Production Trends by Decade")  
+![Movies Produced Over Decades](outputs/DataViz_Q3.jpeg "Figure: Genre Production Trends by Decade")  
+
+#### 📌 Genre Contribution to Success  
+- **Bubble Chart**: Depicts the relationship between total votes and average ratings for each genre, scaled by popularity.  
+![Genres' Contribution to Success](outputs/DataViz_Q4.jpeg "Figure: Bubble Chart of Genre Success Metrics")  
+
+
 
 ---
 
