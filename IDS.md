@@ -5,15 +5,21 @@
 ## 📋 Overview
 This study explores how directors and writers contribute to the success of movies and TV shows. By analyzing data from IMDb, the research highlights how the creative decisions made by the crew behind a project influence its ratings and popularity. Using data science techniques such as exploratory data analysis and predictive modeling, the study uncovers patterns that show certain directors and writers consistently deliver high-rated works.
 
+---
+
 ## 🌟 Highlights
 - Bobby Quinn and Biswapati Sarkar are amongst the directors who consistently produce movies and TV shows with high ratings.
 - A color-coded analysis of movie genres and themes shows that successful directors work.
 - Predictive models suggest that knowing the crew involved in a project can help predict its potential success.
 - This research sheds light on the significant role of directors and writers in determining a film or TV show's fate.
 
+---
+
 ## ❓ Research Questions
 1. Which directors are known for consistently producing highly-rated movies and shows, and what are their most acclaimed works?
 2. Can the success of a movie or TV show be predicted based on its directors and writers?
+
+---
 
 ## 🔎 Key Findings
 - **Consistently Successful Directors and Writers**: Certain directors, such as Bobby Quinn and Biswapati Sarkar, have a consistent track record of producing top-rated works across various genres.
@@ -21,16 +27,21 @@ This study explores how directors and writers contribute to the success of movie
 - **Predictive Modeling**: The research found that movie success can be partially predicted based on the director and writer involved in the project. The involvement of well-regarded directors and writers is a key factor in a movie's or TV show's ratings and popularity.
 - **Correlation**: The analysis revealed that there is no strong correlation between the number of votes and average ratings, suggesting that factors like the crew may play a more important role in predicting success.
 
+---
+
 ## 📊 Results and Discussions
 
 ### 🎯 Key Results
-### Top Directors And Their Highest Rated Works: 
+
+#### 📌 Top Directors And Their Highest Rated Works: 
 - **Directors like Bobby Quinn and Biswapati Sarkar were found to have consistently high ratings for their works. The analysis showed that certain individuals are responsible for a large number of high-rated movies and TV shows**.
 
 
 ![Top Directors and Their Highest-Rated Works](outputs/IDS_Q1.png "Figure 1: Top Directors and Their Works")
 
-### Directors/Writers And Their Highest Average Ratings
+---
+
+#### 📌 Directors/Writers And Their Highest Average Ratings
 
 
 ![Directors/Writers And Their Highest Average Ratings](outputs/IDS_Q2.png "Figure 1: Directors/Writers and Average Ratings")
@@ -48,6 +59,8 @@ This study explores how directors and writers contribute to the success of movie
   - Directors like Bobby Quinn and Biswapati Sarkar were found to be consistently associated with high ratings for their projects.
 - **RQ2: Can the success of a movie be predicted based on its Directors and Writers?**
   - The regression model showed that the involvement of certain directors and writers could partially predict the success of a movie or TV show.
+ 
+---
 
 ## 📑 Conclusion
 
